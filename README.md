@@ -21,3 +21,5 @@ A quantitative poker agent designed for competitive algorithmic trading simulati
 2. Run the script:
    ```bash
    python3 poker_bot.py
+
+## Note: The bot expects JSON state input via STDIN as per standard competition protocols.
